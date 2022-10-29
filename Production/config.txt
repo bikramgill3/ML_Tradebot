@@ -1,0 +1,6 @@
+[binance_testnet]
+binance_testnet_api=jT8XKrW5fa2RDWWCRKK86DPFyIUKR6Wi0NMY2LDGECpYRMzAHj6kmyy9VbuHsBpz
+binance_testnet_secret=ewEzyR7YBifE0hWg5L1hz698Gb8yvTGJd7OF2fWepHPXbYkVFwIZRYTFgYmRYVlK
+
+
+
