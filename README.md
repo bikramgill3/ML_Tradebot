@@ -16,6 +16,6 @@ The folder structure inside has been documented below.
     - DashApp_101.py: The main script for this entire solution. Running this script will activate the Dash app. 
     
     (Folders)
-    - Datasets: Folder containing all raw, interim and final datasets used in the solution.
+    - *Datasets:* Folder containing all raw, interim and final datasets used in the solution.
     - Models: Folder containing model pickle files which are updated and utilized in the solution.
     - Weekly Notebooks: Ad-hoc notebooks that were used to translate Dash app componenets for the final paper (e.g. analysis on data and models used in the                         app)
